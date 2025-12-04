@@ -1,0 +1,8 @@
+Meal Name	Calories
+------------------------------
+breakfast		26.0
+lunch		54.0
+dinner		46.0
+------------------------------
+Total:	126.0
+Average:	42.00
